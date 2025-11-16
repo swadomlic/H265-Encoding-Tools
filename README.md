@@ -1,4 +1,4 @@
-# H265 Encoding Tool 1.0
+# H265 Encoding Tools 1.0
 Software for H265 Encodings winth CPU and GPU and more Tools in Double Language
 
 # English
