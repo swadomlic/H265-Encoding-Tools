@@ -1,4 +1,4 @@
-# H265 Encoding Tools 1.0
+# H265 Encoding Tools 1.1
 Software for H265 Encodings winth CPU and GPU and more Tools in Double Language
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O71NP6QB)
